@@ -210,6 +210,17 @@ Developed by Team 9.
 
 ---
 
+## Team Roles
+
+| Member | Functional Ownership | Project Role |
+|---|---|---|
+| Member 1 | Donor & Donation Management | Requirements Lead |
+| Member 2 | Blood Inventory & Stock Monitoring | Architecture & Design Lead |
+| Member 3 | Blood Search & Request Management | Testing & QA Lead |
+| Member 4 | Blood Issue & Reporting | DevOps / Configuration & Release Lead |
+
+---
+
 ## Status
 
 Under Development
